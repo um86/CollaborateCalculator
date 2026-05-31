@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello Calculator B!\n");
+    printf("Hello Calculator B testing!\n");
     return 0;
 }

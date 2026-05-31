@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780245517 source:e:\2026lectures\csc  1031\github2026\accountb\collaboratecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
